@@ -13,13 +13,13 @@
 				<div id='name'>John Doe</div>
 				<%= @final%> <br>
                 <div id ='textBox1'>
-                  <b>Your permalink is:</b><input class="textBox" name="perma" type="text" text value="http://mytwitterapp.herokuapp.com/show?role1=<%= @role1 %>&role2=<%=@role2 %>&desc1=<%= @desc1%>&desc2=<%=@desc2%>&title1=<%=@title1%>&phrase1=<%=@phrase1%>"/>
-
+                  <b>Your permalink is:</b><input class="textBox" name="perma" type="text" text value="http://mytwitterbio.herokuapp.com/show?role1=<%= @role1 %>&role2=<%=@role2 %>&desc1=<%= @desc1%>&desc2=<%=@desc2%>&title1=<%=@title1%>&phrase1=<%=@phrase1%>"/>
+                </div>
 			</div>
 		</div>
 		<div id='buttonsWrap'>
-			<button id='generateButton' onClick="window.location.reload()">
-				Generate
+			<button id='generateButton' onClick= "window.location.reload()">
+			    Generate
 			</button>
 		</div>
 		<div id='info'>

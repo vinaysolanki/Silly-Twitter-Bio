@@ -3,6 +3,7 @@ TwitterBio::Application.routes.draw do
 
   get "home/index"
   get "show" => "home#show"
+  get "index1" => "home#index"
   #fds
   # The priority is based upon order of creation:
   # first created -> highest priority.
