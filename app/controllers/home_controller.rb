@@ -15,7 +15,7 @@ class HomeController < ApplicationController
     @phrase = Phrase.all
 
     #@bio << @role[rand(@role.length)].value
-    @bio << @title[rand(@title.length)].value + ", " + @desc[rand(@desc.length)].value + ", " + @role[rand(@role.length)].value + ". " + @phrase[rand(@phrase.length)].value
+    @bio << @role[rand(@role.length)].value + ", " + @role[rand(@role.length)].value + ", " + @desc[rand(@desc.length)].value + ", " + @desc[rand(@desc.length)].value + ", " + @title[rand(@title.length)].value + ". " + @phrase[rand(@phrase.length)].value
     @count = @bio[0]
     if @count.length < 140
       @final = @bio[0]
