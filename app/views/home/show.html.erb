@@ -11,8 +11,16 @@
     <div id='biopicture'><img src='<%= asset_path('defaultavatarblue.jpg') %>'/></div>
     <div id='bio'>
       <div id='name'>John Doe</div>
-       <%= @perm %>
+      <span> <%= @perm%> </span>
+      <div id='socialWrap'>
 
+
+        <div id='twitterWrap'><a href="document.URL" class="twitter-share-button" data-url="http://mytwitterbio.herokuapp.com" data-text="Silly Twitter Bios - Generate silly twitter bios to amuse yourself" data-via="Emberyl" data-hashtags="sillytwitterbio">Tweet</a></div>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+        <div class="fb-like" data-href="document.URL" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+
+      </div>
     </div>
   </div>
   <div id='buttonsWrap'>
