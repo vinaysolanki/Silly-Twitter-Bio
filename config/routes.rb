@@ -1,5 +1,8 @@
 TwitterBio::Application.routes.draw do
+  get "permalink/perma"
+
   get "home/index"
+  get "show" => "home#show"
   #fds
   # The priority is based upon order of creation:
   # first created -> highest priority.

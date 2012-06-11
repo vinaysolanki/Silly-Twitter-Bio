@@ -1,0 +1,28 @@
+
+<body>
+<div id='center'>
+  <div id='titleWrap'>
+    Silly Twitter Bios
+  </div>
+  <div id='subtitleWrap'>
+    Generate silly Twitter Bios to amuse yourself
+  </div>
+  <div id='bioWrap'>
+    <div id='biopicture'><img src='<%= asset_path('defaultavatarblue.jpg') %>'/></div>
+    <div id='bio'>
+      <div id='name'>John Doe</div>
+       <%= @perm %>
+
+    </div>
+  </div>
+  <div id='buttonsWrap'>
+    <button id='generateButton' onClick="window.location.reload()">
+      Generate
+    </button>
+  </div>
+  <div id='info'>
+    &copy; Troll King
+  </div>
+</body>
+
+</html>

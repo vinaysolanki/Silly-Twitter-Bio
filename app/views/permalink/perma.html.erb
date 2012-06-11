@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+<head>
+  <%= stylesheet_link_tag "application" %>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
+  <script src="Application.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div id='center'>
+  <div id='titleWrap'>
+    Silly Twitter Bios
+  </div>
+  <div id='subtitleWrap'>
+    Generate silly Twitter Bios to amuse yourself
+  </div>
+  <div id='bioWrap'>
+    <div id='biopicture'><img src='<%= asset_path('defaultavatarblue.jpg') %>'/></div>
+    <div id='bio'>
+      <div id='name'>John Doe</div>
+      <%= @perm = Bios.find(params[@bio_id]) %>
+    </div>
+  </div>
+  <div id='buttonsWrap'>
+    <button id='generateButton' onClick="window.location.reload()">
+      Generate
+    </button>
+  </div>
+  <div id='info'>
+    &copy; Troll King
+  </div>
+</body>
+
+</html>

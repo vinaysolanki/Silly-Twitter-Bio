@@ -22,7 +22,6 @@ class SecondTables < ActiveRecord::Migration
   end
 
   def down
-    drop_table :roles
     drop_table :titles
     drop_table :descs
     drop_table :phrases
