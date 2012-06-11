@@ -70,7 +70,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="27" selection-start="678" selection-end="678" vertical-scroll-proportion="-11.615385">
+            <state line="22" column="26" selection-start="677" selection-end="677" vertical-scroll-proportion="-11.615385">
               <folding />
             </state>
           </provider>
@@ -85,19 +85,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home_controller.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="5" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
+            <state line="17" column="21" selection-start="287" selection-end="287" vertical-scroll-proportion="0.49571183">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seeds.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="seeds.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="3150" selection-start="7898" selection-end="7898" vertical-scroll-proportion="0.66487455">
+            <state line="24" column="3150" selection-start="7898" selection-end="7898" vertical-scroll-proportion="-14.84">
               <folding />
             </state>
           </provider>
@@ -133,9 +133,9 @@
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20120610231138_first_tables.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20120610233509_second_tables.rb" />
+        <option value="$PROJECT_DIR$/db/seeds.rb" />
         <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
-        <option value="$PROJECT_DIR$/db/seeds.rb" />
       </list>
     </option>
   </component>
@@ -744,23 +744,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="5" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
+        <state line="24" column="3150" selection-start="7898" selection-end="7898" vertical-scroll-proportion="-14.84">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="27" selection-start="678" selection-end="678" vertical-scroll-proportion="-11.615385">
+        <state line="22" column="26" selection-start="677" selection-end="677" vertical-scroll-proportion="-11.615385">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="3150" selection-start="7898" selection-end="7898" vertical-scroll-proportion="0.66487455">
+        <state line="17" column="21" selection-start="287" selection-end="287" vertical-scroll-proportion="0.49571183">
           <folding />
         </state>
       </provider>
