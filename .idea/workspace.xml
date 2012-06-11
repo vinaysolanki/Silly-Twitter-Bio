@@ -22,20 +22,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="title.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/title.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="7" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="20120610231138_first_tables.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20120610231138_first_tables.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="14" column="19" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1339371335215" expanded="true" signature="17:230" placeholder=" ... end" />
+                <marker date="1339371335215" expanded="true" signature="52:186" placeholder=" ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,7 +38,9 @@
         <entry file="file://$PROJECT_DIR$/db/migrate/20120610233509_second_tables.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="2" column="3" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1339371762418" expanded="true" signature="18:560" placeholder=" ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,7 +49,9 @@
         <entry file="file://$PROJECT_DIR$/db/schema.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="38" column="2" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1339378080968" expanded="true" signature="1242:1329" placeholder="do ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,7 +69,19 @@
         <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="22" column="26" selection-start="677" selection-end="677" vertical-scroll-proportion="-11.615385">
-              <folding />
+              <folding>
+                <marker date="1339376973681" expanded="true" signature="97:889" placeholder="..." />
+                <marker date="1339376973681" expanded="true" signature="105:334" placeholder="..." />
+                <marker date="1339376973681" expanded="true" signature="342:880" placeholder="..." />
+                <marker date="1339376973681" expanded="true" signature="364:873" placeholder="..." />
+                <marker date="1339376973681" expanded="true" signature="387:418" placeholder="..." />
+                <marker date="1339376973681" expanded="true" signature="444:502" placeholder="..." />
+                <marker date="1339376973681" expanded="true" signature="523:698" placeholder="..." />
+                <marker date="1339376973681" expanded="true" signature="627:689" placeholder="..." />
+                <marker date="1339376973681" expanded="true" signature="723:825" placeholder="..." />
+                <marker date="1339376973681" expanded="true" signature="790:816" placeholder="..." />
+                <marker date="1339376973681" expanded="true" signature="843:872" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,10 +95,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="21" selection-start="287" selection-end="287" vertical-scroll-proportion="0.49571183">
+            <state line="17" column="21" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1339376965675" expanded="true" signature="20:816" placeholder=" ... end" />
+                <marker date="1339376965675" expanded="true" signature="464:543" placeholder="if ... end" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="63" selection-start="552" selection-end="552" vertical-scroll-proportion="0.6862416">
               <folding />
             </state>
           </provider>
@@ -107,7 +129,9 @@
         <entry file="file://$PROJECT_DIR$/app/helpers/home_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="3" column="40" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1339369626119" expanded="true" signature="17:22" placeholder=" ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,12 +143,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/app/models/desc.rb" />
         <option value="$PROJECT_DIR$/app/models/phrase.rb" />
         <option value="$PROJECT_DIR$/app/models/role.rb" />
@@ -136,6 +162,7 @@
         <option value="$PROJECT_DIR$/db/seeds.rb" />
         <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
       </list>
     </option>
   </component>
@@ -145,7 +172,7 @@
     <option name="width" value="1288" />
     <option name="height" value="764" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -355,8 +382,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="Query Language Console.Default">
@@ -564,6 +595,24 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <configuration useDefault="false">C:\Users\Vinay\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <created>1339363252951</created>
@@ -572,7 +621,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1288" height="764" extended-state="6" />
+    <frame x="-4" y="-4" width="1288" height="764" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -695,13 +744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="16" selection-start="183" selection-end="183" vertical-scroll-proportion="0.1728188">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/role.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="6" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
@@ -712,28 +754,37 @@
     <entry file="file://$PROJECT_DIR$/app/helpers/home_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="40" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1339369626119" expanded="true" signature="17:22" placeholder=" ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="2" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1339378080968" expanded="true" signature="1242:1329" placeholder="do ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20120610231138_first_tables.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="19" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1339371335215" expanded="true" signature="17:230" placeholder=" ... end" />
+            <marker date="1339371335215" expanded="true" signature="52:186" placeholder=" ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20120610233509_second_tables.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="3" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1339371762418" expanded="true" signature="18:560" placeholder=" ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -754,13 +805,35 @@
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="26" selection-start="677" selection-end="677" vertical-scroll-proportion="-11.615385">
-          <folding />
+          <folding>
+            <marker date="1339376973681" expanded="true" signature="97:889" placeholder="..." />
+            <marker date="1339376973681" expanded="true" signature="105:334" placeholder="..." />
+            <marker date="1339376973681" expanded="true" signature="342:880" placeholder="..." />
+            <marker date="1339376973681" expanded="true" signature="364:873" placeholder="..." />
+            <marker date="1339376973681" expanded="true" signature="387:418" placeholder="..." />
+            <marker date="1339376973681" expanded="true" signature="444:502" placeholder="..." />
+            <marker date="1339376973681" expanded="true" signature="523:698" placeholder="..." />
+            <marker date="1339376973681" expanded="true" signature="627:689" placeholder="..." />
+            <marker date="1339376973681" expanded="true" signature="723:825" placeholder="..." />
+            <marker date="1339376973681" expanded="true" signature="790:816" placeholder="..." />
+            <marker date="1339376973681" expanded="true" signature="843:872" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="21" selection-start="287" selection-end="287" vertical-scroll-proportion="0.49571183">
+        <state line="17" column="21" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1339376965675" expanded="true" signature="20:816" placeholder=" ... end" />
+            <marker date="1339376965675" expanded="true" signature="464:543" placeholder="if ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="63" selection-start="552" selection-end="552" vertical-scroll-proportion="0.6862416">
           <folding />
         </state>
       </provider>

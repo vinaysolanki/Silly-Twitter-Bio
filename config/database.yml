@@ -19,7 +19,7 @@ test:
   database: bio4
   pool: 5
   username: root
-  socket: /tmp/mysql.sock
+
 
 production:
   adapter: mysql
@@ -27,5 +27,5 @@ production:
   database: bio4
   pool: 5
   username: root
-  socket: /tmp/mysql.sock
+
 
